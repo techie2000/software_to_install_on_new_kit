@@ -43,11 +43,14 @@ Check it's working from command line by running `port version`
 Consider putting `sudo port selfupdate` in sheduler/cron to keep everyting up to date, and `sudo port reclaim` to reclaim space by uninstalling inactive ports, and removing unnecessary files that were downloaded during the installation process.
 
 # Utilities
-* AppCleaner : http://freemacsoft.net/appcleaner/
-* MenuBar Stats 3 : https://www.seense.com/menubarstats/
-  * Plugin Manager : https://www.seense.com/menubarstats/plugins3/
-* OnyX : https://www.titanium-software.fr/en/onyx.html
 
+Name         | Use           | Location
+------------ | ------------- | -------------
+AppCleaner   | Remove the left overs when you uninstall an app | http://freemacsoft.net/appcleaner/
+Bluetooth Keyboard | | https://bluetooth-keyboard.com/
+MenuBar Stats 3 | | https://www.seense.com/menubarstats/ & https://www.seense.com/menubarstats/plugins3/ (Plugin manager)
+OnyX |  | https://www.titanium-software.fr/en/onyx.html
+Syncthing | Synchronise file across mutiple sites and o/s | https://syncthing.net/
 
 # Fun Stuff
 

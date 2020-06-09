@@ -50,9 +50,20 @@ AppCleaner   | Remove the left overs when you uninstall an app | http://freemacs
 Bluetooth Keyboard | | https://bluetooth-keyboard.com/
 MenuBar Stats 3 | | https://www.seense.com/menubarstats/ & https://www.seense.com/menubarstats/plugins3/ (Plugin manager)
 OnyX |  | https://www.titanium-software.fr/en/onyx.html
-Syncthing | Synchronise file across mutiple sites and o/s | https://syncthing.net/
+Syncthing | Synchronise file across multiple sites and o/s's | https://syncthing.net/
+
+# GIT
+Name         | Use           | Location
+------------ | ------------- | -------------
+Auto sync GIT repos | Auto sync GIT repos | https://thedoc.eu.org/blog/auto-sync-git-repo-mac
 
 # Fun Stuff
 
 ## Screensavers :
 * MusaicFM : https://github.com/docterd/MusaicFM/releases/latest/download/MusaicFM.saver.zip
+
+# Stuff to play with when I have time
+
+Name         | Use           | Location
+------------ | ------------- | -------------
+Ardour | Record, Edit, and Mix on Linux, macOS and Windows | https://ardour.org/

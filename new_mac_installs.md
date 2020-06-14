@@ -49,6 +49,7 @@ Name         | Use           | Location
 AppCleaner   | Remove the left overs when you uninstall an app | http://freemacsoft.net/appcleaner/
 Bluetooth Keyboard | | https://bluetooth-keyboard.com/
 Knock Knock | See what's persistently installed on your Mac | https://www.objective-see.com/products/knockknock.html
+Little Sitch | | 
 MenuBar Stats 3 | | https://www.seense.com/menubarstats/ & https://www.seense.com/menubarstats/plugins3/ (Plugin manager)
 OnyX |  | https://www.titanium-software.fr/en/onyx.html
 Syncthing | Synchronise file across multiple sites and o/s's | https://syncthing.net/

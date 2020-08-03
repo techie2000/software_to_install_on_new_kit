@@ -3,6 +3,7 @@
 ## Utilities
 Name         | Use           | Location
 ------------ | ------------- | -------------
+WinSCP       | sFTP client   | https://winscp.net
 
 ## Security Related
 Name         | Use           | Location

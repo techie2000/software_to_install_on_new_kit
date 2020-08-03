@@ -42,6 +42,11 @@ Check it's working from command line by running `port version`
 
 Consider putting `sudo port selfupdate` in sheduler/cron to keep everyting up to date, and `sudo port reclaim` to reclaim space by uninstalling inactive ports, and removing unnecessary files that were downloaded during the installation process.
 
+# Security
+Name         | Use           | Location
+------------ | ------------- | -------------
+Malwarebyts  | Anti-Adware/malware |  https://www.bleepingcomputer.com/download/malwarebytes-for-mac/
+
 # Utilities
 
 Name         | Use           | Location

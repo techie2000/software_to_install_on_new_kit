@@ -4,6 +4,7 @@
 Name         | Use           | Location
 ------------ | ------------- | -------------
 WinSCP       | sFTP client   | https://winscp.net
+Darktable    | Virtual lighttable and darkroom | https://www.darktable.org/install/
 
 ## Security Related
 Name         | Use           | Location

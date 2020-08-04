@@ -9,3 +9,4 @@
   * https://www.objective-see.com/products/knockknock.html : Mac
 * Music
   * http://ampache.org/
+  * https://funkwhale.audio/
